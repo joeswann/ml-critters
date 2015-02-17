@@ -1,0 +1,1 @@
+A javascript port of the AI junkie neural network tutorial at http://www.ai-junkie.com/ann/evolved/nnt8.html

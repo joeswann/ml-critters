@@ -1,0 +1,13 @@
+{
+  "name": "nn-minesweepers",
+  "version": "0.1.0",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-less": "*",
+    "grunt-6to5": "*"
+  }
+}

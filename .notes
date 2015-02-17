@@ -1,0 +1,4 @@
+17/02/15 
+  - Mostly functional
+  - RAF seems to get limited to 60 fps in chrome using () => this.main.update()
+  - Still no hugely noticeable evolution after 50 generations 
